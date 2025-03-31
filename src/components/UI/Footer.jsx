@@ -52,7 +52,7 @@ export const Footers = () => {
                     to="https://www.linkedin.com/in/kunal-pandey-913b11241/"
                     target="_blank"
                   >
-                    LinkedIN
+                    LinkedIn
                   </NavLink>
                 </li>
                 <li>
